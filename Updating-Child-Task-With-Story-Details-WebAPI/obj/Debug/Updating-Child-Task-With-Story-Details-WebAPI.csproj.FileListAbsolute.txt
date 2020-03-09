@@ -78,6 +78,7 @@ D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-
 D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\bin\System.Web.WebPages.Razor.xml
 D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\bin\Antlr3.Runtime.pdb
 D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\obj\Debug\Updating-Child-Task-With-Story-Details-WebAPI.csprojAssemblyReference.cache
 D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\obj\Debug\Updating-Child-Task-With-Story-Details-WebAPI.csproj.CopyComplete
 D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\obj\Debug\Updating-Child-Task-With-Story-Details-WebAPI.dll
 D:\folder\Updating-Child-Task-With-Story-Details\Updating-Child-Task-With-Story-Details-WebAPI\obj\Debug\Updating-Child-Task-With-Story-Details-WebAPI.pdb

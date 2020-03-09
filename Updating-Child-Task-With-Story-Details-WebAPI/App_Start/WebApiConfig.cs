@@ -17,7 +17,7 @@ namespace Updating_Child_Task_With_Story_Details_WebAPI
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                defaults: new { controller = "UpdateChildTaskVP", id = RouteParameter.Optional }
             );
         }
     }

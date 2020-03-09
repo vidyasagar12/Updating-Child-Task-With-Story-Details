@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Description",
+    "value": "$Description$"
+  }  
+]
