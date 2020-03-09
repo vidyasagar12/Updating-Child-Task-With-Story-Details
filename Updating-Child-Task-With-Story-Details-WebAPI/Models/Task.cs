@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
-
+namespace Updating_Child_Task_With_Story_Details_WebAPI.Models
+{ 
 public class Message
 {
     public string text { get; set; }
@@ -173,4 +174,12 @@ public class Task
     public string resourceVersion { get; set; }
     public ResourceContainers resourceContainers { get; set; }
     public DateTime createdDate { get; set; }
+}
+    public class ModelProps
+    {
+        public string baseUrl { get; set; }
+        public string projectId { get; set; }
+        public string PAT { get; set; }
+        public int parentId { get; set; }
+    }
 }
